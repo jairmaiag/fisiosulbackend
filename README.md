@@ -13,3 +13,5 @@ Para executar em **modo de produção**:
 Para executar em **modo de desenvolvimento**:
 >npm run dev
 
+## Banco de dados
+Até o momento, estou utilizando o banco Postgres 13, hospedado no heroku.
